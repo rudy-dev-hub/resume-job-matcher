@@ -1,0 +1,6 @@
+spacy
+scikit-learn
+pandas
+numpy
+openai  # optional
+streamlit  # optional
